@@ -10,5 +10,7 @@
 		but we are resource-centric
 	revocation need server to do re-encyprion and need server to be honest at that time
 
-3. Sieve provides a way to manage master key using secret-sharing
-4. 
+ 	Sieve provides a way to manage master key using secret-sharing
+
+
+3.	
