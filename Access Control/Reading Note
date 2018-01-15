@@ -1,0 +1,14 @@
+1. 	either for decentralized or centralized
+		no need to restrict on decentralized
+
+
+2. 	Sieve
+	just share data with service, so those service already got old data, and it's ok for 
+		those service to read old data
+	only the user can write new data
+   	they are user-centric, user knows the service and service knows the user
+		but we are resource-centric
+	revocation need server to do re-encyprion and need server to be honest at that time
+
+3. Sieve provides a way to manage master key using secret-sharing
+4. 
