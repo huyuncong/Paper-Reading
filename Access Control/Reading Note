@@ -1,5 +1,17 @@
-1. 	either for decentralized or centralized
+1.
+	decentralized? access control? 	
+	either for decentralized or centralized
 		no need to restrict on decentralized
+	
+	<decentralized> paper refer decentralized to multiple key distribution center
+	<crypto>	paper refer journaling mechanism
+	<survey>	paper refer to Autonomous Delegation(except out of order)
+
+	Server honest when expiry or revocation
+
+	Cryptographic Access Control		distributed file system
+		ACL, capability
+	
 
 
 2. 	Sieve
@@ -13,4 +25,21 @@
  	Sieve provides a way to manage master key using secret-sharing
 
 
-3.	
+3.	SFS
+	Self-certifying File System
+	access control list
+
+
+
+
+my opinion
+maybe we can add key management to make it more solid like Sieve
+
+c. 	Cryptographic Access Control
+		avoid the term of decentralized, autonomous delegation
+		
+b.	decentralized access control
+		decentralized means decentralized key distribution center, and decentralized delegation and so on
+		but need trust server in some degree(honest sometimes)
+
+a.	End-to-End Encryption which can be used in access control either centralized or decentralized
