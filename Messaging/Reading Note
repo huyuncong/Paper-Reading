@@ -1,0 +1,10 @@
+TextSecure
+
+perfect forward secrecy(future secrecy)
+
+	even if decryption key revealed, no previous message should be decrypt
+	TextSecure only supports weaker version of PFS
+
+
+	About the paper structure
+		Intro -> overview related protocol -> protocol detail -> issue -> mitigation -> security proof -> additional feature
