@@ -1,7 +1,7 @@
 1. Sovrin
 
 	no DoT chain
-	public permissioned blockchain
+	Sovrin utilizes a “public permissioned” distributed ledger—not a blockchain, white paper claims they are using blockchain
 	Two layers of Nodes
 		one for write request
 		one for read request
